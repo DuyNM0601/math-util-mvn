@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.khanh.mathutil.core.test;
+package org.duy.mathutil.core.test;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-import org.khanh.mathutil.core.MathUtility;
+import org.duy.mathutil.core.MathUtility;
 
 /**
  *
